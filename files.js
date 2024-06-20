@@ -12,6 +12,7 @@ const fs = require('fs')
 // fs.writeFile('./docs/file2.txt', 'Hello Orlando again', () => {
 //   console.log('file was written')
 // })
+
 // creating directories
 if (!fs.existsSync('./assets')) {
 
